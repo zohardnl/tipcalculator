@@ -1,1 +1,1 @@
-# tipcalculator
+# tipcalculator by daniel zohar
